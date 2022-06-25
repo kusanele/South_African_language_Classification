@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Acknowledgements
 
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Languages of South Africa](https://en.wikipedia.org/wiki/Languages_of_South_Africa)
 
 
 ## Authors
@@ -19,8 +19,7 @@ I am a Data Scientist
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/marble-kusanele-mpofu/
-)
+[![linkedin](https://www.linkedin.com/in/marble-kusanele-mpofu)
 [![Kaggle](https://www.kaggle.com/wsc43bso)
 ## Roadmap
 
